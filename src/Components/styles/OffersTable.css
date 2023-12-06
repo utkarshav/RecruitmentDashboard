@@ -1,0 +1,15 @@
+.offers-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .offers-table th, .offers-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .offers-table th {
+    background-color: #f2f2f2;
+  }
+  

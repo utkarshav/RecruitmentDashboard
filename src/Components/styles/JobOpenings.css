@@ -1,0 +1,33 @@
+/* JobOpenings.css */
+.job-openings-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .job-opening-card {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    background-color: #fff;
+    width: 240px; /* Adjust the width as needed */
+  }
+  
+  .briefcase-icon {
+    color: #007bff; /* Change the color as needed */
+    font-size: 40px;
+    margin-right: 10px;
+  }
+  
+  .job-opening-details {
+    flex-grow: 1;
+    font-size: small;
+  }
+  
+  .job-opening-details h6,
+  .job-opening-details p {
+    margin: 5px 0;
+  }
+  

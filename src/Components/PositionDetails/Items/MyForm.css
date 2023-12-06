@@ -1,0 +1,17 @@
+.my-form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    max-width: 300px;
+    margin: auto;
+  }
+  
+  .my-form label {
+    margin-bottom: 5px;
+  }
+  
+  .my-form input,
+  .my-form .react-datepicker-wrapper {
+    width: 100%;
+    margin-bottom: 10px;
+  }

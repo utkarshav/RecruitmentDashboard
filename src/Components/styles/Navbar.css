@@ -1,0 +1,16 @@
+/* Navbar.css */
+.navbar {
+  background-color: rgba(244, 247, 246, 1);
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  box-shadow: 0 2px 4px rgba(244, 247, 246, 0.1); /* Adjust the spread value */
+ 
+}
+
+.brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
